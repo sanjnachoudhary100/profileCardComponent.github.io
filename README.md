@@ -1,2 +1,2 @@
 # profileCardComponent.github.io
- Front End MEn
+ Front End Mentor Challenge
